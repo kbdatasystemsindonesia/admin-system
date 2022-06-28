@@ -1,0 +1,11 @@
+#wrapper {
+  display: flex;
+}
+
+th {
+  text-align: center;
+}
+
+.button-wrapper {
+  margin: 0.1em 0.1em 0.1em 0.1em;
+}
